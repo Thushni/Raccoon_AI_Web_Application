@@ -1,0 +1,38 @@
+.item{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F2F2F2;
+  
+}
+
+.grid{
+  display: flex;
+  grid-template-columns: 20% 80%;
+  /* grid-template-rows: 4fr; */
+  background: #F2F2F2;
+  /* width: 1000px; */
+  padding: 0;
+  margin: 0;
+}
+
+.label{
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 5px;
+}
+
+
+.btn{
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+

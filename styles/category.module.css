@@ -1,0 +1,11 @@
+.cardStyle{
+    display: 'block';
+    width: '30vw';
+    height: '45vw';
+}
+
+.categoryText{
+    color: 'gray';
+    font-size: 20px;
+}
+

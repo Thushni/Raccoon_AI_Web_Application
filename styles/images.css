@@ -1,0 +1,11 @@
+.images {
+    position: relative;
+    margin: 90px auto 0 auto;
+}
+
+.building {
+    position: absolute;
+    top: 0;
+    right: 0 !important;
+    bottom: 0 !important;
+}
